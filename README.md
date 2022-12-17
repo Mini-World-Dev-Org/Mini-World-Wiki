@@ -1,5 +1,5 @@
 # Mini World Wiki
-Mini World Wiki 是迷你世界的 wiki ，其主要内容关于游戏脚本和游戏机制。  
+Mini World Wiki 是迷你世界的 [wiki](https://github.com/Mini-World-Dev-Org/Mini-World-Wiki/wiki/) ，其主要内容关于游戏脚本和游戏机制。  
 为什么要这样做？以下我将证明创建这个 wiki 的重要性。  
 > 触发器和脚本已经出现 3 年了，但是地图开发水平却一直没有很大的提升，一开始的低创地图到现在都还大量存在。  
 > 如果你经常看迷你世界论坛的话，你会和我一样发现有很多新开发者提出一些非常简单的问题，并且重复率也相当高。  
